@@ -1,0 +1,37 @@
+{
+    "users": [
+        {
+            "id": 1,
+            "username": "student",
+            "password": "password",
+            "role": "student",
+            "firstName": "Abdel-jalil",
+            "lastName": "EL HASSANI",
+            "nickname": "Abdo",
+            "birthday": "1990-01-01",
+            "gender": "Male"
+        },
+        {
+            "id": 2,
+            "username": "instructor1",
+            "password": "password",
+            "role": "instructor",
+            "firstName": "Hamza",
+            "lastName": "CHICHAOUI",
+            "nickname": "HC",
+            "birthday": "1985-05-15",
+            "gender": "Male"
+        },
+        {
+            "id": 3,
+            "username": "admin",
+            "password": "admin",
+            "role": "instructor",
+            "firstName": "Chaimae",
+            "lastName": "EL HASSANI",
+            "nickname": "CE",
+            "birthday": "1985-05-15",
+            "gender": "Female"
+        }
+    ]
+}

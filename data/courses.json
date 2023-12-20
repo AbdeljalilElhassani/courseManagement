@@ -1,0 +1,89 @@
+{
+    "courses": [
+        {
+            "id": 1,
+            "name": "Introduction to Programming",
+            "instructor": "instructor1",
+            "description": "Learn the basics of programming using a high-level language.",
+            "category": "Programming",
+            "subject": "Computer Science",
+            "startTime": "10:00",
+            "endTime": "12:00",
+            "numStudents": 20
+        },
+        {
+            "id": 2,
+            "name": "Web Development Fundamentals",
+            "instructor": "instructor1",
+            "description": "Explore the fundamentals of web development, including HTML, CSS, and JavaScript.",
+            "category": "Web Development",
+            "subject": "Computer Science",
+            "startTime": "14:00",
+            "endTime": "16:00",
+            "numStudents": 15
+        },
+        {
+            "id": 3,
+            "name": "Data Science Essentials",
+            "instructor": "instructor2",
+            "description": "Discover the essentials of data science, including data analysis and visualization.",
+            "category": "Data Science",
+            "subject": "Data Science",
+            "startTime": "09:00",
+            "endTime": "11:00",
+            "numStudents": 25
+        },
+        {
+            "id": 4,
+            "name": "Advanced Database Management",
+            "instructor": "instructor2",
+            "description": "Learn advanced concepts in database management, including normalization and indexing.",
+            "category": "Database Management",
+            "subject": "Computer Science",
+            "startTime": "13:00",
+            "endTime": "15:00",
+            "numStudents": 18
+        },
+        {
+            "id": 5,
+            "name": "Advanced Database Management",
+            "instructor": "instructor2",
+            "description": "Learn advanced concepts in database management, including normalization and indexing.",
+            "category": "Database Management",
+            "subject": "Computer Science",
+            "startTime": "15:00",
+            "endTime": "17:00",
+            "numStudents": 18
+        },
+        {
+            "name": "rere",
+            "instructor": "instructor1",
+            "description": "rere",
+            "category": "rerer",
+            "subject": "rerer",
+            "startTime": "09:00",
+            "endTime": "11:00",
+            "numStudents": 20
+        },
+        {
+            "name": "new",
+            "instructor": "instructor1",
+            "description": "new",
+            "category": "new",
+            "subject": "new",
+            "startTime": "09:00",
+            "endTime": "11:00",
+            "numStudents": 25
+        },
+        {
+            "name": "TESTTT",
+            "instructor": "instructor1",
+            "description": "TETETETT",
+            "category": "Science",
+            "subject": "TETET",
+            "startTime": "12:00",
+            "endTime": "16:00",
+            "numStudents": 30
+        }
+    ]
+}
