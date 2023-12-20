@@ -20,7 +20,7 @@ Open the XAMPP Control Panel.
 Start the Apache service.
 
 3. Clone the Repository
-git clone <https://github.com/AbdeljalilElhassani/courseManagement.git>
+git clone https://github.com/AbdeljalilElhassani/courseManagement.git
 
 4. Move Files
 Move the project files to the htdocs directory in your XAMPP installation.
